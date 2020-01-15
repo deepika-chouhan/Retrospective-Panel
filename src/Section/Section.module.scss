@@ -1,0 +1,67 @@
+.header {
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+    vertical-align: top;
+    font-style: italic;
+    textarea {
+        margin: 10px;
+        width: 100px;
+        height: 50px;
+        border-bottom-right-radius: 5px ;
+        text-align: center;
+        font-family: 'Bradley Hand';
+        background-color: khaki;
+    }
+};
+.textCard {
+    margin: 10px;
+    width: 100px;
+        height: 50px;
+        border-bottom-right-radius: 5px ;
+        text-align: center;
+        font-family: 'Bradley Hand';
+        background-color: khaki;
+}
+.voteBtn {
+    border: none;
+    outline: none;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 50px;
+    margin-left: 5px;
+}
+.voteBtn :hover{
+    cursor: pointer;
+}
+label, .cardBtn {
+    display: inline-block;
+}
+label {
+    margin: 10px;
+}
+.cardBtn {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 19px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%;
+    border-radius: 50%;
+    vertical-align: super;
+    outline: none;
+}
+
+.textArea {
+    background-color: green;
+}
+.id_0 {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+}
+
+
